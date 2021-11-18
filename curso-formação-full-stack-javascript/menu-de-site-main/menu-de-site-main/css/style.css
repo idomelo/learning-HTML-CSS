@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(221, 221, 221);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    height: 50px;
+    width: 100%;
+    padding: 0 20px;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 10px black;
+}
+
+.logo {       /* Tornar vermelha a palavra Top */
+    color: rgb(224, 20, 20);
+    font-family: Arial, sans-serif;             
+    letter-spacing: -3px;
+}
+
+.logo span:first-child {    /* Tornar Azul a palavra Elétrica */
+    color: #1d52ff;
+}
+
+.logo span:last-child {
+    font-size: 12px;
+    letter-spacing: normal;
+    color: white;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li{
+    list-style: none;
+}
+
+.menu > li {
+    position: relative;
+}
+
+.menu > li a {   /* Propriedades dos links do menu */
+    display: block;
+    color: white;
+    font-size: 14px;
+    padding: 17px;
+    text-decoration: none;
+}
+
+.menu > li:hover {
+    background-color: #1d52ff;
+}
+
+
+.submenu {
+    display: none;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    background-color: #1d52ff;
+    min-width: 110%;
+}
+
+.menu > li:hover > .submenu,
+.submenu > li:hover > .submenu {        /* Quando o submenu for selecionado, ou o submenu do submenu,anula-se o diplay:none e aplica-se display:block */
+    
+    display: block;
+}
+
+.submenu li .submenu { 
+    position: absolute;
+    top: 75%;
+    left: 100%;
+}
+
+.submenu li:hover {
+    background-color: #0a288d;
+}
