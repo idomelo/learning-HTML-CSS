@@ -1,4 +1,4 @@
-# Aqui eu adiciono projetos que estou contruindo com ajuda de cursos online.
+# Aqui eu adiciono projetos construídos para praticar programação.
 
 >Links para visualização:
 
