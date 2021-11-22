@@ -1,4 +1,4 @@
-# Aqui eu adiciono projetos construídos para praticar programação.
+# Aqui eu adiciono projetos construídos para fixar o que aprendi.
 
 >Links para visualização:
 
