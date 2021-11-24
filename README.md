@@ -8,6 +8,6 @@
 
 - [Menu de site](https://idomelo.github.io/learning-HTML-CSS/curso-formação-full-stack-javascript/menu-de-site)
 
-- [Landing page (responsivo)](https://idomelo.github.io/learning-HTML-CSS/curso-formação-full-stack-javascript/landing-page)
+- [Landing page para Workshop (responsivo)](https://idomelo.github.io/learning-HTML-CSS/curso-formação-full-stack-javascript/landing-page)
 
-- [Site oficina (responsivo)](https://idomelo.github.io/learning-HTML-CSS/curso-formação-full-stack-javascript/site-oficina)
+- [Site oficina (nav entre páginas)](https://idomelo.github.io/learning-HTML-CSS/curso-formação-full-stack-javascript/site-oficina)
