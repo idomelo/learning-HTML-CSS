@@ -10,4 +10,4 @@
 
 - [Landing page (responsivo)](https://idomelo.github.io/learning-HTML-CSS/curso-formação-full-stack-javascript/landing-page)
 
-- [Site oficina ](https://idomelo.github.io/learning-HTML-CSS/curso-formação-full-stack-javascript/site-oficina)
+- [Site oficina (responsivo)](https://idomelo.github.io/learning-HTML-CSS/curso-formação-full-stack-javascript/site-oficina)
