@@ -2,7 +2,7 @@
 
 >Links para visualização:
 
-## Curso-formação-full-stack-javascript: <br>
+## Curso-full-stack-javascript: <br>
 
 - [Barber Shop (responsivo)](https://idomelo.github.io/learning-HTML-CSS/curso-forma%C3%A7%C3%A3o-full-stack-javascript/barber-shop)
 
