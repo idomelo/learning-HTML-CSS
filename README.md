@@ -9,5 +9,3 @@
 - [Menu de site](https://idomelo.me/learning-HTML-CSS/curso-formação-full-stack-javascript/menu-de-site)
 
 - [Landing page para Workshop (responsivo)](https://idomelo.me/learning-HTML-CSS/curso-formação-full-stack-javascript/landing-page)
-
-- [Site de oficina (nav entre páginas)](https://idomelo.me/learning-HTML-CSS/curso-formação-full-stack-javascript/site-oficina)
